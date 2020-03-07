@@ -1,0 +1,7 @@
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\bin\Release\Hookernel.exe.config
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\bin\Release\Hookernel.exe
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\obj\Release\Hookernel.csprojResolveAssemblyReference.cache
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\obj\Release\Hookernel.MainForm.resources
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\obj\Release\Hookernel.Resource1.resources
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\obj\Release\Hookernel.csproj.GenerateResource.Cache
+C:\Users\TASWEL\Desktop\Hookernel\Hookernel\obj\Release\Hookernel.exe
